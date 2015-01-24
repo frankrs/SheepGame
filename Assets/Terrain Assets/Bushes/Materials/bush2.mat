@@ -24,7 +24,7 @@ Material:
       data:
         first:
           name: _Cutoff
-        second: .5
+        second: .789285719
       data:
         first:
           name: _BaseLight
@@ -41,7 +41,7 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: 1, g: 1, b: 1, a: 1}
+        second: {r: .510649085, g: .698529422, b: .436580896, a: 1}
       data:
         first:
           name: _MainTex_ST
